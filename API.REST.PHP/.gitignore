@@ -1,0 +1,17 @@
+
+.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
+*.swp
+*.swo
+
+*.log
+*.tmp
+*.temp
+
+/cache/
+/tmp/
+
+config.php
