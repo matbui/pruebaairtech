@@ -6,14 +6,14 @@
 
 
 # Documentacion
-- Crear un archivo llamado config.php con el siguiente formato
+- Crear un archivo llamado config.php dentro de la carpeta API.REST.PHP con el siguiente formato
 
- <?php
+ *<?php
     define('DB_HOST', 'tu host');
     define('DB_USER', 'tu user');
     define('DB_PASSWORD', 'tu contraseña');
     define('DB_NAME', 'nombre de la base de datos');
-?>
+?>*
 
 - Correr desde la carpeta API.REST.PHP eñ comando php -S localhost:8000 (puerto a elección)
 - Crear una base de datos en mysql como lo indica el archivo setup.sql en la carpeta sql 
